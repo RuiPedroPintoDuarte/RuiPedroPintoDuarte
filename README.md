@@ -48,8 +48,8 @@ Welcome to my GitHub profile! I'm a passionate **MSc student in Data Engineering
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/ruiduart1)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/rui-duarte-b51897198/)
+- [Email](rppintod417@gmaill.com)
 
 ---
 
