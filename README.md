@@ -32,10 +32,65 @@ Welcome to my GitHub profile! I'm a passionate **MSc student in Data Engineering
 </div>
 
 ### 🔧 Technologies & Frameworks:
-- **Data Engineering:** Apache Spark, Hadoop, SQL, NoSQL, ETL
-- **Web Development:** React, Express, REST APIs
-- **Machine Learning:** Scikit-Learn, TensorFlow, Keras
-- **Cloud Computing:** AWS, Google Cloud Platform
+- **Data Engineering & Big Data:**
+  - **Technologies & Tools:** Apache Spark, Hadoop, Kafka, Apache Flink, Apache Airflow, Dask, Talend, SQL, NoSQL, Data Warehousing, Data Lakes
+  - **Projects:**
+    - [BigData Public](https://github.com/your-profile/BigData): Focus on handling large datasets and distributed data processing.
+    - [ArmazemDeDados](https://github.com/your-profile/ArmazemDeDados): Developed a data storage solution with an emphasis on scalability and performance.
+
+- **Machine Learning & Deep Learning:**
+  - **Frameworks & Libraries:** Scikit-Learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, CatBoost, Jupyter Notebooks
+  - **Projects:**
+    - [MachineLearningAPRAU Public](https://github.com/your-profile/MachineLearningAPRAU): Implementation of various ML algorithms for predictive analysis.
+    - [DeepLearning Public](https://github.com/your-profile/DeepLearning): Worked on neural networks and deep learning models for image and text recognition.
+    - [MineracaoTexto Public](https://github.com/your-profile/MineracaoTexto): Applied text mining techniques for natural language processing tasks.
+
+- **Web Development:**
+  - **Frontend:** React, HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS
+  - **Backend:** Node.js, Express, Django, Flask
+  - **Databases & APIs:** MySQL, MongoDB, REST APIs, GraphQL
+  - **Projects:**
+    - [Web_application Public](https://github.com/your-profile/Web_application): Developed a full-stack web application (Cinema Website).
+    - [Base-de-dados Public](https://github.com/your-profile/Base-de-dados): Developed database systems and APIs for dynamic websites.
+
+- **Data Privacy & Security:**
+  - **Tools & Techniques:** Data Encryption, Privacy Laws, GDPR Compliance, Secure Data Handling
+  - **Projects:**
+    - [SegurancaPrivacidadeDados Public](https://github.com/your-profile/SegurancaPrivacidadeDados): Implemented security measures for sensitive data handling.
+
+- **Data Mining & Analysis:**
+  - **Tools:** Jupyter Notebook, Pandas, NumPy, Scikit-learn, SQL
+  - **Projects:**
+    - [Minera-o-de-dados Public](https://github.com/your-profile/Minera-o-de-dados): Applied various data mining techniques for pattern recognition and analysis.
+    - [SistemaRecomendacao Public](https://github.com/your-profile/SistemaRecomendacao): Built a recommendation system for personalized content delivery.
+
+- **Cloud Computing & DevOps:**
+  - **Platforms:** AWS, GCP, Docker, Kubernetes, Terraform, Jenkins
+  - **Projects:**
+    - [Packet_Tracer Public](https://github.com/your-profile/Packet_Tracer): Configured cloud infrastructure for network simulation and management.
+
+- **Mobile Development & App Design:**
+  - **Languages & Tools:** HTML5, JavaScript, React Native
+  - **Projects:**
+    - [mobile app](https://github.com/your-profile/mobile-app): Developed a mobile app focused on health and data tracking.
+
+- **Algorithms & Programming:**
+  - **Languages:** C, C++, C#, Python, JavaScript, SQL, T-SQL
+  - **Projects:**
+    - [C_Sharp Public](https://github.com/your-profile/C_Sharp): Developed applications using object-oriented programming in C#.
+    - [C_plus_plus Public](https://github.com/your-profile/C_plus_plus): Worked on algorithmic problems and data structures in C++.
+    - [C_exercises Public](https://github.com/your-profile/C_exercises): Solved algorithmic challenges using C.
+
+- **Business Intelligence:**
+  - **Tools:** Power BI, Data Visualization
+  - **Projects:**
+    - [Power_BI Public](https://github.com/your-profile/Power_BI): Created dashboards and reports for business decision-making.
+
+- **Other Projects:**
+  - [Phyton Public](https://github.com/your-profile/Phyton): A project focused on COVID-19 data analysis using Python.
+  - [Hanabi Public](https://github.com/your-profile/Hanabi): Game developed in C based on the popular Hanabi card game.
+
+
 
 ### 📈 Statistics:
 [![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuiPedroPintoDuarte&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
