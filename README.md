@@ -17,7 +17,6 @@
    <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
    
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuiPedroPintoDuarte&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div align="center">
 
