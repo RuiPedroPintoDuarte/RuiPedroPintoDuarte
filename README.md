@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **MSc student in Data Engineering
 
 ### 🚀 About Me:
 - Currently pursuing my Master's in Data Engineering at ISEP
-- Focused on building **AI-based systems** **
+- Focused on building **AI-based systems**
 - Experienced in **software development**, with proficiency in a range of languages and tools
 - Always eager to learn new skills and grow professionally
 
