@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **MSc student in Data Engineering
 - **Cloud Computing:** AWS, Google Cloud Platform
 
 ### 📈 Statistics:
-[![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruiduart1&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuiPedroPintoDuarte&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 Currently Learning:
 - Exploring **deep learning techniques** for AI systems
