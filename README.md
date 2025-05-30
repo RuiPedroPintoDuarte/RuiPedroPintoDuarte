@@ -31,64 +31,84 @@ Welcome to my GitHub profile! I'm a passionate **MSc student in Data Engineering
 
 </div>
 
-### 🔧 Technologies & Frameworks:
-- **Data Engineering & Big Data:**
-  - **Technologies & Tools:** Apache Spark, Hadoop, Kafka, Apache Flink, Apache Airflow, Dask, Talend, SQL, NoSQL, Data Warehousing, Data Lakes
-  - **Projects:**
-    - [BigData](https://github.com/RuiPedroPintoDuarte/BigData): Focus on handling large datasets and distributed data processing.
-    - [ArmazemDeDados](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados): Developed a data storage solution with an emphasis on scalability and performance.
+## 🔧 Technologies & Frameworks
 
-- **Machine Learning & Deep Learning:**
-  - **Frameworks & Libraries:** Scikit-Learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, CatBoost, Jupyter Notebooks
-  - **Projects:**
-    - [MachineLearningAPRAU](https://github.com/RuiPedroPintoDuarte/MachineLearningAPRAU): Implementation of various ML algorithms for predictive analysis.
-    - [DeepLearning](https://github.com/RuiPedroPintoDuarte/DeepLearning): Worked on neural networks and deep learning models for image and text recognition.
-    - [MineracaoTexto](https://github.com/RuiPedroPintoDuarte/MineracaoTexto): Applied text mining techniques for natural language processing tasks.
+### 🛠️ Data Engineering & Big Data
+**Technologies & Tools:** Apache Spark, Hadoop, Kafka, Flink, Airflow, Dask, Talend, SQL, NoSQL, Data Warehousing, Data Lakes  
+**Projects:**
+- [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData): Worked on large-scale data processing and distributed systems.
+- [**ArmazemDeDados**](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados): Built a scalable and high-performance data warehouse solution.
 
-- **Web Development:**
-  - **Frontend:** React, HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS
-  - **Backend:** Node.js, Express, Django, Flask
-  - **Databases & APIs:** MySQL, MongoDB, REST APIs, GraphQL
-  - **Projects:**
-    - [Web_application](https://github.com/RuiPedroPintoDuarte/Web_application): Developed a full-stack web application (Cinema Website).
-    - [Base-de-dados](https://github.com/RuiPedroPintoDuarte/Base-de-dados): Developed database systems and APIs for dynamic websites.
+---
 
-- **Data Privacy & Security:**
-  - **Tools & Techniques:** Data Encryption, Privacy Laws, GDPR Compliance, Secure Data Handling
-  - **Projects:**
-    - [SegurancaPrivacidadeDados](https://github.com/RuiPedroPintoDuarte/SegurancaPrivacidadeDados): Implemented security measures for sensitive data handling.
+### 🤖 Machine Learning & Deep Learning
+**Frameworks & Libraries:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, CatBoost, Jupyter Notebooks  
+**Projects:**
+- [**MachineLearningAPRAU**](https://github.com/RuiPedroPintoDuarte/MachineLearningAPRAU): Implemented ML algorithms for predictive analytics.
+- [**DeepLearning**](https://github.com/RuiPedroPintoDuarte/DeepLearning): Developed neural network models for image and text recognition.
+- [**MineracaoTexto**](https://github.com/RuiPedroPintoDuarte/MineracaoTexto): Applied NLP and text mining techniques.
 
-- **Data Mining & Analysis:**
-  - **Tools:** Jupyter Notebook, Pandas, NumPy, Scikit-learn, SQL
-  - **Projects:**
-    - [Minera-o-de-dados ](https://github.com/RuiPedroPintoDuarte/Minera-o-de-dados): Applied various data mining techniques for pattern recognition and analysis.
-    - [SistemaRecomendacao ](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao): Built a recommendation system for personalized content delivery.
+---
 
-- **Cloud Computing & DevOps:**
-  - **Platforms:** AWS, GCP, Docker, Kubernetes, Terraform, Jenkins
-  - **Projects:**
-    - [Packet_Tracer ](https://github.com/RuiPedroPintoDuarte/Packet_Tracer): Configured cloud infrastructure for network simulation and management.
+### 🌐 Web Development
+**Frontend:** React, HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS  
+**Backend:** Node.js, Express, Django, Flask  
+**Databases & APIs:** MySQL, MongoDB, REST APIs, GraphQL  
+**Projects:**
+- [**Web_application**](https://github.com/RuiPedroPintoDuarte/Web_application): Full-stack cinema booking website.
+- [**Base-de-dados**](https://github.com/RuiPedroPintoDuarte/Base-de-dados): Developed dynamic APIs and relational database systems.
 
-- **Mobile Development & App Design:**
-  - **Languages & Tools:** HTML5, JavaScript, React Native
-  - **Projects:**
-    - [mobile app](https://github.com/RuiPedroPintoDuarte/mobile-app): Developed a mobile app focused on health and data tracking.
+---
 
-- **Algorithms & Programming:**
-  - **Languages:** C, C++, C#, Python, JavaScript, SQL, T-SQL
-  - **Projects:**
-    - [C_Sharp ](https://github.com/RuiPedroPintoDuarte/C_Sharp): Developed applications using object-oriented programming in C#.
-    - [C_plus_plus ](https://github.com/RuiPedroPintoDuarte/C_plus_plus): Worked on algorithmic problems and data structures in C++.
-    - [C_exercises ](https://github.com/RuiPedroPintoDuarte/C_exercises): Solved algorithmic challenges using C.
+### 🔐 Data Privacy & Security
+**Focus Areas:** Data Encryption, GDPR Compliance, Privacy Laws, Secure Handling  
+**Projects:**
+- [**SegurancaPrivacidadeDados**](https://github.com/RuiPedroPintoDuarte/SegurancaPrivacidadeDados): Implemented secure data processing pipelines and compliance strategies.
 
-- **Business Intelligence:**
-  - **Tools:** Power BI, Data Visualization
-  - **Projects:**
-    - [Power_BI Public](https://github.com/RuiPedroPintoDuarte/Power_BI): Created dashboards and reports for business decision-making.
+---
 
-- **Other Projects:**
-  - [Phyton](https://github.com/RuiPedroPintoDuarte/Phyton): A project focused on COVID-19 data analysis using Python.
-  - [Hanabi](https://github.com/RuiPedroPintoDuarte/Hanabi): Game developed in C based on the popular Hanabi card game.
+### 📊 Data Mining & Analysis
+**Tools:** Jupyter Notebook, Pandas, NumPy, Scikit-learn, SQL  
+**Projects:**
+- [**Mineracao-de-dados**](https://github.com/RuiPedroPintoDuarte/Minera-o-de-dados): Extracted patterns and insights from complex datasets.
+- [**SistemaRecomendacao**](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao): Built a content-based and collaborative filtering recommendation engine.
+
+---
+
+### ☁️ Cloud Computing & DevOps
+**Platforms & Tools:** AWS, GCP, Docker, Kubernetes, Terraform, Jenkins  
+**Projects:**
+- [**Packet_Tracer**](https://github.com/RuiPedroPintoDuarte/Packet_Tracer): Simulated cloud network environments and deployed containerized solutions.
+
+---
+
+### 📱 Mobile Development & App Design
+**Languages & Tools:** HTML5, JavaScript, React Native  
+**Projects:**
+- [**mobile-app**](https://github.com/RuiPedroPintoDuarte/mobile-app): Health and data tracking mobile application.
+
+---
+
+### 💡 Algorithms & Programming
+**Languages:** C, C++, C#, Python, JavaScript, SQL, T-SQL  
+**Projects:**
+- [**C_Sharp**](https://github.com/RuiPedroPintoDuarte/C_Sharp): Object-oriented applications using C#.
+- [**C_plus_plus**](https://github.com/RuiPedroPintoDuarte/C_plus_plus): Data structures and algorithmic solutions in C++.
+- [**C_exercises**](https://github.com/RuiPedroPintoDuarte/C_exercises): Problem-solving using procedural C programming.
+
+---
+
+### 📈 Business Intelligence
+**Tools:** Power BI, Excel, Data Visualization  
+**Projects:**
+- [**Power_BI Public**](https://github.com/RuiPedroPintoDuarte/Power_BI): Designed interactive dashboards and KPIs for data-driven insights.
+
+---
+
+### 🧪 Other Projects
+- [**Phyton**](https://github.com/RuiPedroPintoDuarte/Phyton): Python-based COVID-19 data analysis and visualization.
+- [**Hanabi**](https://github.com/RuiPedroPintoDuarte/Hanabi): Card game simulation developed in C.
+
 
 
 
