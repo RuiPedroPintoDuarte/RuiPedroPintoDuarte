@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <h3>Rui Duarte</h3>
-  <h4>Data Scientist @ Natixis | Mestre em Engenharia de Dados</h4>
+  <h1>Rui Duarte</h1>
+  <h3>Data Scientist @ Natixis | Mestre em Engenharia de Dados</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/ruiduarte12345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,14 +19,36 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 ---
 
 ### 🛠️ Stack Tecnológico
-*Organizado por domínios de competência para garantir clareza e alinhamento:*
-
-| Domínio | Ferramentas |
-| :--- | :--- |
-| **Data Science & AI** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,sklearn&theme=dark" /> |
-| **Engenharia de Dados** | <img src="https://skillicons.dev/icons?i=spark,scala,postgres,mysql,mongodb,airflow&theme=dark" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,bash&theme=dark" /> |
-| **Desenvolvimento Web** | <img src="https://skillicons.dev/icons?i=react,nodejs,flask,html,css&theme=dark" /> |
+<table width="100%">
+  <tr>
+    <th width="30%">Domínio</th>
+    <th width="70%">Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Data Science & AI</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,sklearn&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Engenharia de Dados</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spark,scala,postgres,mysql,mongodb,airflow&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,bash&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Desenvolvimento Web</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,flask,html,css&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,7 +61,7 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 * [**SistemaRecomendacao**](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao) - Motores de recomendação baseados em filtragem colaborativa.
 * [**MachineLearningAPRAU**](https://github.com/RuiPedroPintoDuarte/MachineLearningAPRAU) | [**MineracaoTexto**](https://github.com/RuiPedroPintoDuarte/MineracaoTexto)
 
-#### 🏗️ Data Engineering & Analytics
+#### 🏗️ Engenharia de Dados & Analytics
 * [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData) - Processamento distribuído com ecossistema Spark/Hadoop.
 * [**ArmazemDeDados**](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados) - Design e implementação de arquiteturas de **Data Warehouse**.
 * [**Power_BI Public**](https://github.com/RuiPedroPintoDuarte/Power_BI) - Dashboards analíticos para suporte à decisão estratégica.
