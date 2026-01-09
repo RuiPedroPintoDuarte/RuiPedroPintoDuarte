@@ -2,14 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <h1>Rui Duarte</h1>
-  <h3>Data Scientist @ Natixis | Mestre em Engenharia de Dados</h3>
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRuiPedroPintoDuarte&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Data+Scientist+@+Natixis;Mestre+em+Engenharia+de+Dados;Especialista+em+IA+e+Big+Data" alt="Typing SVG" />
 
   <p>
     <a href="https://www.linkedin.com/in/ruiduarte12345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:rppintod417@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/RuiPedroPintoDuarte"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=RuiPedroPintoDuarte&color=0077B5&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
   </p>
 </div>
 
@@ -65,7 +64,7 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 * [**SistemaRecomendacao**](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao) - Motor de recomendação utilizando técnicas de **filtragem colaborativa** e baseada em conteúdo.
 
 #### <img src="https://cdn-icons-png.flaticon.com/512/2784/2784065.png" width="20px"/> Engenharia de Dados & Analytics
-* [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData) - Implementação de uma infraestrutura de **Data Pipeline** end-to-end orquestrada via **Docker Compose**. Inclui ingestão de dados (Tweets) com **Apache NiFi**, processamento distribuído num cluster **Spark (Master/Worker)** e visualização de dados com **Superset** e **Streamlit**.
+* [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData) - Implementação de uma infraestrutura de **Data Pipeline** end-to-end orquestrada via **Docker Compose**. Inclui ingestão de dados (Tweets) com **Apache NiFi**, processamento distribuído num cluster **Spark (Master/Worker)** e visualização com **Superset** e **Streamlit**.
 * [**Mineracao-de-dados**](https://github.com/RuiPedroPintoDuarte/Minera-o-de-dados) - Análise e previsão de **Séries Temporais** aplicada à procura de energia (Energy Demand Analysis), utilizando modelos estatísticos em Jupyter Notebooks.
 * [**ArmazemDeDados**](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados) - Construção de uma solução de **Data Warehouse** escalável com tabelas de factos e dimensões.
 * [**SegurancaPrivacidadeDados**](https://github.com/RuiPedroPintoDuarte/SegurancaPrivacidadeDados) - Implementação de **pipelines seguros** e estratégias de conformidade com o RGPD.
@@ -80,13 +79,6 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 * [**Hanabi**](https://github.com/RuiPedroPintoDuarte/Hanabi) - Simulação lógica do jogo de cartas implementada em linguagem **C**.
 * [**Packet_Tracer**](https://github.com/RuiPedroPintoDuarte/Packet_Tracer) - Simulação de **topologias de rede** e ambientes cloud.
 * [**Phyton**](https://github.com/RuiPedroPintoDuarte/Phyton) - Análise estatística e **visualização de dados** da COVID-19 em ambiente Python.
-
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/2082/2082806.png" width="25px"/> Atividade no GitHub
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RuiPedroPintoDuarte/RuiPedroPintoDuarte/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
-</div>
 
 ---
 
