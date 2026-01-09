@@ -63,9 +63,9 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 * [**SistemaRecomendacao**](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao) - Motor de recomendação utilizando técnicas de **filtragem colaborativa** e baseada em conteúdo.
 
 #### <img src="https://cdn-icons-png.flaticon.com/512/2784/2784065.png" width="20px"/> Engenharia de Dados & Analytics
-* [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData) - Processamento distribuído de dados em larga escala com o ecossistema **Spark e Hadoop**.
+* [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData) - Implementação de uma infraestrutura de **Data Pipeline** end-to-end orquestrada via **Docker Compose**. Inclui ingestão de dados (Tweets) com **Apache NiFi**, processamento distribuído num cluster **Spark (Master/Worker)** e visualização de dados com **Superset** e **Streamlit**.
+* [**Mineracao-de-dados**](https://github.com/RuiPedroPintoDuarte/Minera-o-de-dados) - Análise e previsão de **Séries Temporais** aplicada à procura de energia (Energy Demand Analysis), utilizando modelos estatísticos em Jupyter Notebooks.
 * [**ArmazemDeDados**](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados) - Construção de uma solução de **Data Warehouse** escalável com tabelas de factos e dimensões.
-* [**Mineracao-de-dados**](https://github.com/RuiPedroPintoDuarte/Minera-o-de-dados) - Descoberta de conhecimento e **extração de padrões** em datasets complexos.
 * [**SegurancaPrivacidadeDados**](https://github.com/RuiPedroPintoDuarte/SegurancaPrivacidadeDados) - Implementação de **pipelines seguros** e estratégias de conformidade com o RGPD.
 * [**Power_BI Public**](https://github.com/RuiPedroPintoDuarte/Power_BI) - Design de dashboards interativos e **KPIs** para suporte à decisão estratégica.
 
