@@ -4,6 +4,8 @@
   <h1>Rui Duarte</h1>
   <h3>Data Scientist @ Natixis | Mestre em Engenharia de Dados</h3>
 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRuiPedroPintoDuarte&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" />
+
   <p>
     <a href="https://www.linkedin.com/in/ruiduarte12345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:rppintod417@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -78,6 +80,13 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 * [**Hanabi**](https://github.com/RuiPedroPintoDuarte/Hanabi) - Simulação lógica do jogo de cartas implementada em linguagem **C**.
 * [**Packet_Tracer**](https://github.com/RuiPedroPintoDuarte/Packet_Tracer) - Simulação de **topologias de rede** e ambientes cloud.
 * [**Phyton**](https://github.com/RuiPedroPintoDuarte/Phyton) - Análise estatística e **visualização de dados** da COVID-19 em ambiente Python.
+
+---
+
+### <img src="https://cdn-icons-png.flaticon.com/512/2082/2082806.png" width="25px"/> Atividade no GitHub
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RuiPedroPintoDuarte/RuiPedroPintoDuarte/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
+</div>
 
 ---
 
