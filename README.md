@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Rui%20Duarte&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <h3>Data Scientist @ Natixis | Mestre em Engenharia de Dados</h3>
+  <h3>Rui Duarte</h3>
+  <h4>Data Scientist @ Natixis | Mestre em Engenharia de Dados</h4>
 
   <p>
     <a href="https://www.linkedin.com/in/ruiduarte12345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -51,27 +52,7 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 
 ---
 
-### 📈 Estatísticas e Atividade
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RuiPedroPintoDuarte&show_icons=true&theme=nord&count_private=true&hide_border=true" height="170px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiPedroPintoDuarte&layout=compact&theme=nord&hide_border=true" height="170px" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuiPedroPintoDuarte&theme=nord&hide_border=true" width="100%" />
-</div>
-
----
-
 <div align="center">
   <p><i>"A transformar dados complexos em soluções de impacto."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" />
 </div>
-
-
