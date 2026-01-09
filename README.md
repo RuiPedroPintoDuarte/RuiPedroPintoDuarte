@@ -4,46 +4,73 @@
 
 # Hello, I'm Rui Duarte 👋
 
-Welcome to my GitHub profile! I am a **Data Scientist at Natixis** and hold an **MSc in Data Engineering** from ISEP. I specialize in building **AI-driven solutions**, predictive modeling, and scalable data architectures.
+Welcome to my GitHub profile! I am a **Data Scientist at Natixis** and hold an **MSc in Data Engineering** from ISEP. I specialize in building **AI-driven applications**, predictive modeling, and scalable data architectures. 
 
 ### 🚀 About Me:
 - 💼 **Current Role:** Data Scientist @ **Natixis**
 - 🎓 **Education:** MSc in Data Engineering (ISEP) - *Completed*
-- 🧠 **Focus:** Machine Learning, LLMs, and AI-based systems for decision support.
-- 🛠️ **Background:** Full-stack development with a strong focus on Data Warehouse and Predictive Analytics.
+- 🧠 **Focus:** Machine Learning, LLMs, and AI-driven decision systems
+- 🛠️ **Experience:** Expertise in the full data lifecycle, from ETL/Data Engineering to Deep Learning deployment
+- 🌱 **Always learning:** Advanced MLOps, Generative AI, and Scalable Cloud Architectures
 
 ---
 
 ### 🛠️ Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-## 🔧 Expertise & Key Projects
+## 🔧 Expertise & Projects
 
-### 🤖 Machine Learning & GenAI (Core Focus)
-**Libraries:** Scikit-learn, TensorFlow, PyTorch, LLMs (OpenAI/LangChain), Statsmodels  
-- [**ProjetoFinalCesae**](https://github.com/RuiPedroPintoDuarte/ProjetoFinalCesae): **Smart Banking System**. Uma aplicação Full-stack (Flask/SQL Server) que utiliza **Regressão Logística** para prever o risco de incumprimento de crédito em tempo real. Inclui dashboards de análise de gastos e gestão de perfis.
-- [**ChatBotAnsiedade**](https://github.com/RuiPedroPintoDuarte/ChatBotAnsiedade): Plataforma de suporte à saúde mental com um **Chatbot adaptativo baseado em LLMs**. Focado em respostas personalizadas para auxiliar em crises de ansiedade através de processamento de linguagem natural complexo.
-- [**SistemaRecomendacao**](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao): Motores de recomendação colaborativa e baseada em conteúdo.
+### 🤖 Machine Learning & Generative AI
+**Core Focus:** LLMs, Predictive Modeling, NLP, Scikit-learn, PyTorch, TensorFlow  
+- [**ChatBotAnsiedade**](https://github.com/RuiPedroPintoDuarte/ChatBotAnsiedade): Website com um **chatbot adaptativo baseado em LLMs** para suporte personalizado em crises de ansiedade.
+- [**ProjetoFinalCesae**](https://github.com/RuiPedroPintoDuarte/ProjetoFinalCesae): **Sistema Bancário Inteligente** com IA (Regressão Logística) para análise de risco de crédito e dashboards financeiros.
+- [**MachineLearningAPRAU**](https://github.com/RuiPedroPintoDuarte/MachineLearningAPRAU): Predictive analytics and ML algorithms.
+- [**DeepLearning**](https://github.com/RuiPedroPintoDuarte/DeepLearning): Neural network models for image and text recognition.
+- [**MineracaoTexto**](https://github.com/RuiPedroPintoDuarte/MineracaoTexto): Applied NLP and text mining techniques.
+- [**SistemaRecomendacao**](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao): Content-based and collaborative filtering engine.
 
-### 🏗️ Data Engineering & Architecture
-**Technologies:** Apache Spark, SQL Server (DW), ETL Pipelines, SQLAlchemy  
-- [**ArmazemDeDados**](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados): Implementação de Data Warehousing com estruturas de Factos e Dimensões.
-- [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData): Processamento distribuído de dados em larga escala.
+### 🏗️ Data Engineering & Big Data
+**Technologies:** Spark, Hadoop, Kafka, Airflow, SQL Server (DW), ETL  
+- [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData): Large-scale data processing and distributed systems.
+- [**ArmazemDeDados**](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados): Scalable and high-performance Data Warehouse solution.
+- [**Mineracao-de-dados**](https://github.com/RuiPedroPintoDuarte/Minera-o-de-dados): Pattern extraction and insights from complex datasets.
+- [**SegurancaPrivacidadeDados**](https://github.com/RuiPedroPintoDuarte/SegurancaPrivacidadeDados): Secure data pipelines and GDPR compliance strategies.
 
-### 🌐 Full-Stack Development
-- **Web & Mobile:** React, Node.js, Flask, React Native.
-- [**Web_application**](https://github.com/RuiPedroPintoDuarte/Web_application): Sistema completo de reserva de cinema.
-- [**mobile-app**](https://github.com/RuiPedroPintoDuarte/mobile-app): App de tracking de dados de saúde.
+### 🌐 Web & Mobile Development
+**Stack:** React, Node.js, Flask, Django, MongoDB, MySQL  
+- [**Web_application**](https://github.com/RuiPedroPintoDuarte/Web_application): Full-stack cinema booking website.
+- [**Base-de-dados**](https://github.com/RuiPedroPintoDuarte/Base-de-dados): Dynamic APIs and relational database systems.
+- [**mobile-app**](https://github.com/RuiPedroPintoDuarte/mobile-app): Health and data tracking mobile application (React Native).
+
+### 🖥️ Algorithms & Software Engineering
+- [**C_Sharp**](https://github.com/RuiPedroPintoDuarte/C_Sharp): OOP applications in C#.
+- [**C_plus_plus**](https://github.com/RuiPedroPintoDuarte/C_plus_plus): Data structures and algorithmic solutions.
+- [**Hanabi**](https://github.com/RuiPedroPintoDuarte/Hanabi): Card game simulation in C.
+- [**Packet_Tracer**](https://github.com/RuiPedroPintoDuarte/Packet_Tracer): Cloud network simulations and container deployment.
+
+### 📊 Business Intelligence & Analytics
+- [**Power_BI Public**](https://github.com/RuiPedroPintoDuarte/Power_BI): Interactive dashboards and KPI design.
+- [**Phyton**](https://github.com/RuiPedroPintoDuarte/Phyton): Python-based COVID-19 data analysis and visualization.
 
 ---
 
@@ -53,6 +80,12 @@ Welcome to my GitHub profile! I am a **Data Scientist at Natixis** and hold an *
 </div>
 
 ---
+
+### 📫 How to reach me:
+- **LinkedIn:** [linkedin.com/in/ruiduarte12345/](https://www.linkedin.com/in/ruiduarte12345/)
+- **Email:** [rppintod417@gmail.com](mailto:rppintod417@gmail.com)
+
+🚀 *Sempre em busca de transformar dados complexos em soluções inteligentes.*
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/ruiduarte12345/](https://www.linkedin.com/in/ruiduarte12345/)
