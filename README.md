@@ -13,12 +13,12 @@
 
 ---
 
-### 🖋️ Resumo Profissional
+### <img src="https://cdn-icons-png.flaticon.com/512/943/943579.png" width="25px"/> Resumo Profissional
 Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestre em **Engenharia de Dados pelo ISEP**. O meu foco reside no desenvolvimento de soluções de Inteligência Artificial que geram valor de negócio, com experiência sólida em todo o pipeline: desde a arquitetura de Big Data e processos ETL até à implementação de modelos de Deep Learning e Generative AI (LLMs).
 
 ---
 
-### 🛠️ Stack Tecnológico
+### <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" width="25px"/> Stack Tecnológico
 <table width="100%">
   <tr>
     <th width="30%">Domínio</th>
@@ -52,22 +52,22 @@ Atualmente a desempenhar funções como **Data Scientist na Natixis**, sou mestr
 
 ---
 
-### 🚀 Projetos em Destaque
+### <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="25px"/> Projetos em Destaque
 
-#### 🧠 Inteligência Artificial & Machine Learning
+#### <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20px"/> Inteligência Artificial & Machine Learning
 * [**ChatBotAnsiedade**](https://github.com/RuiPedroPintoDuarte/ChatBotAnsiedade) - Assistente inteligente baseado em **LLMs** para suporte em saúde mental.
 * [**ProjetoFinalCesae**](https://github.com/RuiPedroPintoDuarte/ProjetoFinalCesae) - Sistema bancário com previsão de risco de crédito via **Regressão Logística**.
 * [**DeepLearning**](https://github.com/RuiPedroPintoDuarte/DeepLearning) - Modelos de redes neuronais para visão computacional e processamento de texto.
 * [**SistemaRecomendacao**](https://github.com/RuiPedroPintoDuarte/SistemaRecomendacao) - Motores de recomendação baseados em filtragem colaborativa.
 * [**MachineLearningAPRAU**](https://github.com/RuiPedroPintoDuarte/MachineLearningAPRAU) | [**MineracaoTexto**](https://github.com/RuiPedroPintoDuarte/MineracaoTexto)
 
-#### 🏗️ Engenharia de Dados & Analytics
+#### <img src="https://cdn-icons-png.flaticon.com/512/2784/2784065.png" width="20px"/> Engenharia de Dados & Analytics
 * [**BigData**](https://github.com/RuiPedroPintoDuarte/BigData) - Processamento distribuído com ecossistema Spark/Hadoop.
 * [**ArmazemDeDados**](https://github.com/RuiPedroPintoDuarte/ArmazemDeDados) - Design e implementação de arquiteturas de **Data Warehouse**.
 * [**Power_BI Public**](https://github.com/RuiPedroPintoDuarte/Power_BI) - Dashboards analíticos para suporte à decisão estratégica.
 * [**Mineracao-de-dados**](https://github.com/RuiPedroPintoDuarte/Minera-o-de-dados) | [**SegurancaPrivacidadeDados**](https://github.com/RuiPedroPintoDuarte/SegurancaPrivacidadeDados)
 
-#### 💻 Engenharia de Software & Outros
+#### <img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="20px"/> Engenharia de Software & Outros
 * [**Web_application**](https://github.com/RuiPedroPintoDuarte/Web_application) - Plataforma Full-stack para gestão de reservas.
 * [**mobile-app**](https://github.com/RuiPedroPintoDuarte/mobile-app) - Tracking de dados de saúde em React Native.
 * [**C_plus_plus**](https://github.com/RuiPedroPintoDuarte/C_plus_plus) | [**C_Sharp**](https://github.com/RuiPedroPintoDuarte/C_Sharp) | [**Hanabi**](https://github.com/RuiPedroPintoDuarte/Hanabi) | [**Packet_Tracer**](https://github.com/RuiPedroPintoDuarte/Packet_Tracer)
